@@ -8,6 +8,24 @@ Before you begin, make sure you have the following installed on your system:
 
 - Node.js: Download and install Node.js from [nodejs.org](https://nodejs.org/).
 
+## Screenshots
+![001](images/001.png)
+<br>
+<br>
+![002](images/002.png)
+<br>
+<br>
+![003](images/003.png)
+<br>
+<br>
+![004](images/004.png)
+<br>
+<br>
+![005](images/005.png)
+<br>
+<br>
+
+
 ## Getting Started
 
 Follow these steps to set up and run the Task Reminder App:
