@@ -40,7 +40,7 @@ app.post('/addTask', (req, res) => {
   const reminder = schedule.scheduleJob(new Date(time), function () {
     const mailOptions = {
       from: process.env.GMAIL_USER,
-      to: 'arshad.amp432@gmail.com',
+      to: 'youremail2@gmail.com',
       subject: 'Task Reminder',
       text: `Task: ${task}`,
     };
