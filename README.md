@@ -9,19 +9,19 @@ Before you begin, make sure you have the following installed on your system:
 - Node.js: Download and install Node.js from [nodejs.org](https://nodejs.org/).
 
 ## Screenshots
-![001](images/001.png)
+![001](Images/001.png)
 <br>
 <br>
-![002](images/002.png)
+![002](Images/002.png)
 <br>
 <br>
-![003](images/003.png)
+![003](Images/003.png)
 <br>
 <br>
-![004](images/004.png)
+![004](Images/004.png)
 <br>
 <br>
-![005](images/005.png)
+![005](Images/005.png)
 <br>
 <br>
 
